@@ -35,5 +35,5 @@ Welcome to my GitHub repository! This repository serves as a showcase of my deve
 **Thank you for visiting my portfolio! If you have any questions, inquiries, or collaboration opportunities, feel free to reach out to me:**
 
 - **Email:** [onlinemisikir@gmail.com]
-- **LinkedIn:** [linkedin.com/in/misikir-delelew-114a5946]
+- **LinkedIn:** [misikir-delelew]
 - **Website:** [Your Personal Website, if applicable]
