@@ -29,9 +29,6 @@ Welcome to my GitHub repository! This repository serves as a showcase of my deve
 **Description:** Brief description of the script, its purpose, and the database management task it addresses.
 
 ...
-## Live Demo
-
-You can view a live demo of this project [here](https://misikirdelelew.github.io/Misikirfolio/).
 
 ## Portfolio
 
