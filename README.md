@@ -22,7 +22,7 @@ Welcome to my GitHub repository! This repository serves as a showcase of my deve
 
 **In this section, I present my experience in database administration, including database design, optimization, maintenance, and troubleshooting. The scripts and projects here demonstrate my knowledge of database management systems and my ability to ensure the efficiency and reliability of data storage solutions.**
 
-### Script 1: [Script Name]
+### Script 1: [I have used quary optmisation techniques for better data retrival on ICSMIS DB]
 **Description:** Brief description of the script, its purpose, and the database management task it addresses.
 
 ### Script 2: [Script Name]
